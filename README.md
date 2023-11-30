@@ -1,7 +1,3 @@
-## Quem é a Kelly Oliveira? 
-
-<div align="center">
- <img src='https://github.com/Kelly-Oliveira/Reprograma-Semana01/blob/master/photo-perfil/photo-perfil.jpg' width=300 alt='foto da Kelly' >
 ## Projeto da Semana - 04
 
  <p>
