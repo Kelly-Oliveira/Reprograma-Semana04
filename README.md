@@ -26,9 +26,6 @@ Todas deverão abrir um PR, mas não  Mergiar na branch da Prof!!
 * Fique atenta para **não incluir** seu conteúdo no lugar da outra colega.
 * Só faça as **alterações no index que foram indicadas** pela prof em aula. Sao elas: colocar uma foto da aluna e linkar a pasta do projeto individual.
 * Depois do projeto pronto, suba para o github!
-#### PROCESSO PARA SUBIR NO GITHUB:* Adicione as mudanças. (git add . para adicionar todos os arquivos, ou git add nome_do_arquivo para adicionar um arquivo específico)* Commite a cada mudança significativa ou na finalização do exercício (git commit -m "Mensagem do commit")* De Push nos commits da branch de voces (git push origin nome-da-branch)* Crie um Pull Request seguindo as orientações que estão nesse documento. (Aqui: https://github.com/mflilian/onX-tet-sX-temaX/blob/main/exercicios/projeto-casa/instrucoes-pull-request.md)
-
-#### COMO TODAS IRAO SUBIR COISAS NO INDEX, AO CRIAR O PR, IRA APARECER UMA MENSAGEM PARA RESOLVER CONFLITOS. VOCES NAO PRECISAM FAZER ISSO. SO ABRAM O PR!!! ## QUEM IRA MERGIAR AS BRANCHS SERA A PROF THIELE, NAO MERGIEM!! SO ABRAM O PR!!
    
   Deploy do projeto: https://kelly-oliveira.github.io/Reprograma-Semana04/
 </p>
@@ -36,9 +33,9 @@ Todas deverão abrir um PR, mas não  Mergiar na branch da Prof!!
 
 ###  Tecnologias que utilizei
   
-  | `HTML5` | Linguagem de Marcação de Hipertexto |
+  | `HTML` | Hypertext Markup Language |
 
-  | `CSS` | Linguagem de estilo |
+  | `CSS` | Cascading Style Sheets |
  
 <hr />
 
